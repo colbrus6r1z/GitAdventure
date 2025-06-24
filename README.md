@@ -1,1 +1,1 @@
-10.2.6 Exercise- Git Basics
+Unit 10 Exercises - Git Basics
