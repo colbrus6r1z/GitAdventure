@@ -1,0 +1,18 @@
+# **Branching Exercise** (SEC)
+
+Answer the following questions:
+
+- What ***git*** command creates a branch?
+    git checkout -b
+
+- What is the difference between a fast-forward and recursive merge?
+    Fast-forward merges are only possible when there have been no commits on the original branch while the new branch is being edited.
+
+- What ***git*** command changes to another branch?
+    git checkout
+
+- What ***git*** command deletes a branch?
+    git branch -D
+
+- How do merge conflicts happen?
+    Git will run into merge conflicts if there are different commits with changes to the same file.
